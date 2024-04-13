@@ -1,0 +1,1 @@
+# Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science
