@@ -14,7 +14,7 @@ in generative AI research. This project implements co-occurrence analysis betwee
 
 1. **Data Preparation**: Place your dataset file(s) in the `data/` directory.
 2. **Data Preprocessing**: If necessary, preprocess the data to ensure consistency and cleanliness.
-3. **Co-occurrence Analysis**: Run the Python script `co_occurrence_analysis.py` in the `scripts/` directory to perform co-occurrence analysis.
+3. **Co-occurrence Analysis**: Run the Python Notebook to perform co-occurrence analysis.
 4. **Visualization**: Visualize the results using the provided scripts or tools of your choice.
 5. **Interpretation**: Interpret the co-occurrence patterns to gain insights into the underlying themes and topics in the dataset.
 
