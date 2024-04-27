@@ -25,3 +25,8 @@ in generative AI research. This project implements co-occurrence analysis betwee
 - numpy
 - matplotlib
 - NetworkX
+
+## Results
+
+![image](https://github.com/priyanka-senthil/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science/assets/160204163/e9c54052-a769-44b6-9b64-7b257b20694a)
+
