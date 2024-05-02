@@ -2,8 +2,9 @@
 
 
 In the rapidly evolving field of generative artificial intelligence (AI), identifying key research themes and understanding their interconnections is crucial for academics, practitioners, and policy makers. This project aims to utilize the comprehensive Web of Science (WoS) database to search for publications related to generative AI. Through an
-analytical approach focused on keyword co-occurrence networks derived from author keywords, we will map the intellectual structure and identify the core themes and trends
-in generative AI research. This project implements co-occurrence analysis between author keywords and article titles extracted from a dataset. The analysis aims to identify prevalent themes and topics across articles by examining the frequency of co-occurrence between titles and keywords.
+analytical approach focused on keyword co-occurrence networks derived from author keywords, we will map the intellectual structure and identify the core themes and trends in generative AI research. This project implements co-occurrence analysis between author keywords and article titles extracted from a dataset. The analysis aims to identify prevalent themes and topics across articles by examining the frequency of co-occurrence between titles and keywords.
+
+This data is sourced from the Web of Science via Snell Library using the search term 'Generative AI.' It includes all conference proceedings and journal articles published in 2023, yielding a total of 1,246 entries. This consolidated file is stored on Google Drive and is currently being accessed in this Python script.
 
 ## Project Structure
 
